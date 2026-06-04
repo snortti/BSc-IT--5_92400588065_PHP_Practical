@@ -1,0 +1,1 @@
+<p>This content is from include_content.php file.</p>

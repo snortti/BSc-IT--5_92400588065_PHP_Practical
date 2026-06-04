@@ -1,0 +1,1 @@
+<p>This content is from require_content.php file.</p>
